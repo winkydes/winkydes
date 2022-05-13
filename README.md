@@ -1,8 +1,9 @@
 # Hello World! 👋
 My name is Keith and I am a third year undergraduate student from CUHK. I am majoring in Mathematics and doing a double minor on computer science and web and cloud computing. Here are some personal programming background:
 
-- Currently working as Android Frontend Developer at AritaOne
-- Developing some fun small projects
+- Android Frontend Developer at AritaOne
+- Web 3 enthusiast
+- Strong interest in web development, specializes in ReactJS
 - Collaborating with others on different projects
 - Looking for a chance to be a software engineer!
 
@@ -38,3 +39,6 @@ My name is Keith and I am a third year undergraduate student from CUHK. I am maj
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## Code Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winkydes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
