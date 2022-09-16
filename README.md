@@ -1,7 +1,8 @@
 # Hello World! 👋
-My name is Keith and I am a third year undergraduate student from CUHK. I am majoring in Mathematics and doing a double minor on computer science and web and cloud computing. Here are some personal programming background:
+My name is Keith and I am a fourth year undergraduate student from CUHK. I am majoring in Mathematics and doing a double minor on computer science and web and cloud computing. Here are some personal programming background:
 
-- Currently working as IT Intern at ESDlife digital solutions department
+- Currently working as a part-time flutter/android developer at BoxLand Hong Kong Limited
+- Was an IT Intern at ESDlife digital solutions department
 - Was an Android Frontend Developer at AritaOne
 - Strong interest in web development, specializes in ReactJS
 - Collaborating with others on different projects
