@@ -4,7 +4,7 @@ My name is Keith and I am a fourth year undergraduate student from CUHK. I am ma
 - Currently working as a part-time flutter/android developer at BoxLand Hong Kong Limited
 - Was an IT Intern at ESDlife digital solutions department
 - Was an Android Frontend Developer at AritaOne
-- Strong interest in web development, specializes in ReactJS
+- Strong interest in mobile development, specializes in Flutter and Android
 - Collaborating with others on different projects
 - Looking for a chance to be a software engineer!
 
